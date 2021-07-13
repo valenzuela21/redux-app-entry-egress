@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+.cursor{
+  cursor: pointer;
+}
+.text-size-btn{
+  font-size: 12px!important;
+}
